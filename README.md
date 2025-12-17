@@ -14,7 +14,7 @@ Alternativamente, usar el menú: Ver → Control de código fuente.
 
 Hacer clic en Clonar repositorio (o “Clone Repository”).
 
-Pegue la URL del repositorio de GitHub que le diste.
+Pegue la URL del repositorio de GitHub 
 
 Elegir la carpeta local donde quiere guardar el repositorio.
 
